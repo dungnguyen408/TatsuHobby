@@ -10,3 +10,8 @@ Tasks:
 -Extra time: Create this layout using HTML, CSS, and Javascript
 
 Goal: I wanted the UI to look similar to major shopping websites. Examples I used were other hobby and clothing store websites. 
+
+
+
+Working Prototype: https://xd.adobe.com/view/c6f680ec-281b-4e1a-90ca-023549138106?fullscreen 
+**Note: Still edits need to be done
