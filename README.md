@@ -15,3 +15,5 @@ Goal: I wanted the UI to look similar to major shopping websites. Examples I use
 
 Working Prototype: https://xd.adobe.com/view/c6f680ec-281b-4e1a-90ca-023549138106?fullscreen 
 **Note: Still edits need to be done
+**Note: On Desktop mode it is made for 1920 x 1080. Will edit this in the future for mobile app and desktop 1280
+**Last update on working link: 02/03/2018
