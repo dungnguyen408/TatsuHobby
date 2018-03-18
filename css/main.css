@@ -1,0 +1,32 @@
+.container-fluid{
+  background-color: #3D3D3D;
+}
+#banner{
+  width: 100%;
+
+}
+#newarrival{
+  height: 600px;
+  width: 100%;
+
+}
+.container-fluid h1{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: "Stencil";
+}
+  .col-sm-3 .thumbnail img{
+    height: 200px;
+  }
+  .row{
+    background-color: #9C9C9C;
+    padding: 10px;
+  }
+  .caption{
+    background-color: #2A2A2A;
+  }
+  .caption p{
+    color: white;
+  }
+}
